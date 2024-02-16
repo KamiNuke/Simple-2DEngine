@@ -1,5 +1,5 @@
 # Simple-2DEngine
-My own 2D cross-platform "Engine" created in C++ with SDL2 and ImGui. This application was created in order to improve my programming knowledge but eventually I'll use it as my main engine(I hope so).
+My own 2D cross-platform "Engine" created in C++ with SDL2 and ImGui. This engine was created in order to improve my programming knowledge but eventually I'll use it as my main engine(I hope so).
 
 # Current Features
   - Tile-based system
