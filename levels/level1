@@ -1,0 +1,7 @@
+assets/tiles/Dirt.png; AnimFrames: 0 [x: 445 y: 132 ] BREAKABLE
+assets/tiles/Stone.png; AnimFrames: 0 [x: 524 y: 129 ] BREAKABLE
+assets/tiles/Water.png; AnimFrames: 5 [x: 226 y: 106 ] UNBREAKABLE
+assets/tiles/Water.png; AnimFrames: 5 [x: 365 y: 70 ] UNBREAKABLE
+Objects:
+[x: 760 y: 143 ] [w: 16 h: 16 ]animFrames: 8 assets/objects/BearGlass.png;
+[x: 714 y: 140 ] [w: 16 h: 16 ]animFrames: 8 assets/objects/BearGlass.png;
